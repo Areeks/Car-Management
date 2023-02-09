@@ -1,0 +1,2 @@
+# Car Management
+ This code contains a Java class called Samochod that models a car. The class includes fields such as car brand, model, mileage, fuel, fuel consumption, and maximum fuel tank capacity. It also includes getters and setters for all of these fields, as well as methods for reading in car information from the user, printing out car information, and initializing car information. Additionally, there is a method for refueling the car.
